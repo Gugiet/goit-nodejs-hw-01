@@ -4,7 +4,7 @@
 
 node index.js --action list
 
-<a href="https://ibb.co/n7yxCF9"><img src="https://i.ibb.co/n7yxCF9/image.png" alt="image" border="0"></a>
+<a href="https://ibb.co/n7yxCF9"><img src="https://i.ibb.co/rxhDsVY/image.png" alt="image" border="0"></a>
 
 # Otrzymujemy kontakt po id
 
